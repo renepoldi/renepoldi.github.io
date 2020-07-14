@@ -1,0 +1,22 @@
+- ROD Turnier System
+- Spezifakationen SW-Ausbaustufe I
+- Max 100 Automaten / 16 Personen pro Automat: 1600 Spieler
+------------------------------------------------------------
+- Turnier Plan erstellen
+- Personen Automaten zuweisen
+- Credite und Spiele freigeben
+- Spiele auswählen und zuweisen
+- Spiele auswerten und anzeigen
+- Credite und Spieler verwalten
+------------------------------------------------------------
+Nutzerprofil:
+
+- Benutzername
+- Passwort
+- Name [Vorname, Nachname]
+- Mannschaft
+- Status [Spieler, Kapitän]
+- E-Mail
+- PPD [PointsPerDart]
+- Klasse [A,B,C]
+- Spiele Gesamt [Anzahl]
